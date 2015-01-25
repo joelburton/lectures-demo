@@ -12,6 +12,7 @@ Contents:
    :maxdepth: 2
 
 hi
+world
 
 
 Indices and tables
